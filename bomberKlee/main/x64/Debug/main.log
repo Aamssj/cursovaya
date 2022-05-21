@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\User\Desktop\пакет деловой\Программирование\курсовая\bomberKlee\main\main.cpp(240,24): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\пакет деловой\Программирование\курсовая\bomberKlee\main\main.cpp(240,54): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\пакет деловой\Программирование\курсовая\bomberKlee\main\main.cpp(241,25): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\пакет деловой\Программирование\курсовая\bomberKlee\main\main.cpp(241,56): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\пакет деловой\Программирование\курсовая\bomberKlee\main\main.cpp(431,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.vcxproj -> C:\Users\User\Desktop\пакет деловой\Программирование\курсовая\bomberKlee\x64\Debug\main.exe
